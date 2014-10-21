@@ -269,7 +269,7 @@
         "settings": ["overlay_scroll_bars"],
         "layer0.tint": [49,50,51],
         "layer0.inner_margin": [0,5],
-        "content_margin": [2,32],
+        "content_margin": [4,32],
         "blur": true
     },
     // Overlay horizontal puck
@@ -287,14 +287,14 @@
         "class": "puck_control",
         "settings": ["overlay_scroll_bars"],
         "attributes": ["dark"],
-        "layer0.tint": [28,33,38]
+        "layer0.tint": [40,40,40]
     },
     // Overlay light horizontal puck (for dark content)
     {
         "class": "puck_control",
         "settings": ["overlay_scroll_bars"],
         "attributes": ["horizontal","dark"],
-        "layer0.tint": [28,33,38]
+        "layer0.tint": [40,40,40],
     },
 //
 // EMPTY WINDOW BACKGROUND
